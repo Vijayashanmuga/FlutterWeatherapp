@@ -23,4 +23,5 @@ Enjoy fluid and beautifully animated transitions throughout the app, enhancing t
 BLoC Pattern for API Calls 🧱:
 MinimalWeather utilizes the BLoC (Business Logic Component) pattern for handling API calls, ensuring efficient data management and separation of concerns. This architecture enhances scalability and maintainability, making MinimalWeather a robust and reliable weather app.
 
+![WhatsApp Image 2024-04-09 at 21 48 49_93e9a0bf](https://github.com/Vijayashanmuga/Flutterweatherapp/assets/113011990/5752bca9-b0b5-4262-81aa-5ba567cd0cea)
 
